@@ -1,0 +1,14 @@
+{
+  "VhtearKey": "YOUR_APIKEY",
+  "YoutubeKey": "YOUR_APIKEY",
+  "author": "ShakiraAzela",
+  "NomorSELF": "1(331)3102894@c.us",
+  "packname": "VerysBot",
+  "isSelfOnlys": true,
+  "afkkontak": false,
+  "afktag": {
+  "prefix": "!"
+    "status": false,
+    "message": {}
+  }
+}
